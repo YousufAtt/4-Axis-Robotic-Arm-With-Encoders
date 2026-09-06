@@ -1,4 +1,4 @@
-# AS5600 Magnetic Encoder Integration for 4-DOF Robotic Arm
+# AS5600 Magnetic Encoder Integration for 4-DOF Robotic Arm (Work in Progress !)
 
 ## Overview
 
@@ -57,4 +57,3 @@ The measured joint angle can be calculated using:
 ```cpp
 angle = rawPosition * 360.0 / 4096.0;
 
-Work still in progress!
