@@ -1,6 +1,8 @@
 # AS5600 Magnetic Encoder Integration for 4-DOF Robotic Arm (Work in Progress !)
 
 ## Overview
+This project modifies an existing open source 4 - Axis Robotic Arm. All credit goes to ToolKnox. 
+https://github.com/ToolKnox/Robotic-Arm-Arduino-project 
 
 This project integrates **AS5600 magnetic rotary encoders** into a **4-DOF articulated robotic arm** to provide joint-angle feedback for calibration, position monitoring, homing, and future closed-loop control.
 
